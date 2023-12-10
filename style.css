@@ -120,3 +120,132 @@
     padding: 20px 0;
     font-size: 30px;
   } */
+
+  /* CSS Grid Item */
+  /* .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  
+  .grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+  
+  .item1 {
+    grid-column: 1 / 5;
+    grid-colum:2/span 2;
+  } */
+
+
+ /* grid Row */
+/* .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  
+  .grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+  
+  .item1 {
+     grid-row: 1 /4; 
+    grid-row: 2 /span 2;
+  }  */
+  /* Grid-area */
+/* 
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  
+  .grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+  
+  .item8 {
+    grid-area: 1/ 2 / 5 / 6;
+  } */
+
+  /* Naming grid items */
+/* 
+  .item1 {
+    grid-area: myArea;
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-areas: 'myArea myArea myArea myArea myArea';
+    gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  
+  .grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px; 
+  } */
+
+
+  /* .item1 {
+    grid-area: myArea;
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-areas: 'myArea myArea . . .' 'myArea myArea . . .';
+    gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  
+  .grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  } */
+
+  /* order of items */
+  /* .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  
+  .grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+  
+  .item1 { grid-area: 1 / 3 / 2 / 4; }
+  .item2 { grid-area: 2 / 3 / 3 / 4; }
+  .item3 { grid-area: 1 / 1 / 2 / 2; }
+  .item4 { grid-area: 1 / 2 / 2 / 3; }
+  .item5 { grid-area: 2 / 1 / 3 / 2; }
+  .item6 { grid-area: 2 / 2 / 3 / 3; }
+   */
+   
